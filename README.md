@@ -4,7 +4,6 @@
 > Crafting offline-resilient Progressive Web Apps, real-time sports telemetry systems, and deterministic algorithmic engines.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jonnykeys-181717?style=flat&logo=github)](https://github.com/jonnykeys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Live%20App-Sports%20Psychic-FF5722?style=flat)](https://jonnykeys.github.io/Sports-Psychic/)
 
 ---
